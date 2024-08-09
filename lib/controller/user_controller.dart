@@ -13,6 +13,7 @@ class UserController extends GetxController {
     isYesChecked.value = !isYesChecked.value;
     if (isYesChecked.value) {
       isNoChecked.value = false;
+
     }
   }
 
