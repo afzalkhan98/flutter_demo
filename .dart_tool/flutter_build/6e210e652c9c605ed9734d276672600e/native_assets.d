@@ -1,0 +1,1 @@
+ /home/afzal-khan/Futter\ demo/demo/.dart_tool/flutter_build/6e210e652c9c605ed9734d276672600e/native_assets.yaml: 
