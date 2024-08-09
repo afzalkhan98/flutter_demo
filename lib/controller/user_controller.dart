@@ -23,6 +23,7 @@ class UserController extends GetxController {
       isYesChecked.value = false;
     }
   }
+  // Afzal
 
   @override
   void onInit() {

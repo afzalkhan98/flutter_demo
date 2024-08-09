@@ -8,6 +8,7 @@ class Userdetails {
   String? website;
   Company? company;
 
+
   Userdetails(
       {this.id,
         this.name,
